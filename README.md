@@ -1,4 +1,4 @@
-# Aircraft Mission Profiles
+# Reliability-Oriented Aircraft Mission Profiles
 
 ## Overview
 This repository provides a dataset of synthetic mission-derived power profiles for reliability-oriented evaluation of electric propulsion systems. The profiles are generated from real flight trajectories and environmental data, preserving mission characteristics relevant for converter stress and lifetime assessment.
