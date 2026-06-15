@@ -174,13 +174,11 @@ If you use this dataset, please cite both the associated publication and the dat
 
 ### Publication
 
-J. Kugener, K. Gnerlich, I. Koch and S. Kazula, "Towards Reliability-Oriented Mission Profiles for Electric Aircraft Propulsion Converters," PCIM Europe 2026; International Exhibition and Conference for Power Electronics, Intelligent Motion, Renewable Energy and Energy Management, Nuremberg, Germany.
-
-DOI will be added after publication.
+J. Kugener, K. Gnerlich, I. Koch and S. Kazula, "Towards Reliability-Oriented Mission Profiles for Electric Aircraft Propulsion Converters," PCIM Europe 2026; International Exhibition and Conference for Power Electronics, Intelligent Motion, Renewable Energy and Energy Management, Nuremberg, Germany. DOI: 10.30420/566716021
 
 ### Data Repository
 
-J. Kugener, K. Gnerlich, I. Koch and S. Kazula, "Reliability-Oriented Aircraft Mission Profiles," Data Repository, 2026. [Online]. Available: https://github.com/jeffkugener/aircraft-mission-profiles. DOI: 10.83196/aircraft-mission-profiles.
+J. Kugener, K. Gnerlich, I. Koch and S. Kazula, "Reliability-Oriented Aircraft Mission Profiles," Data Repository, 2026. [Online]. Available: https://doi.org/10.83196/aircraft-mission-profiles. DOI: 10.83196/aircraft-mission-profiles
 
 ## License
 
@@ -190,8 +188,7 @@ https://creativecommons.org/licenses/by/4.0/
 
 ## Contact
 
-Jeff Kugener  
-jeff.kugener
+Jeff Kugener 
 German Aerospace Center (DLR)  
 Institute of Electrified Aero Engines
 
